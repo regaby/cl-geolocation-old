@@ -29,7 +29,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/regaby/cl-geolocation-old.git',
+        'https://github.com/regaby/cl-geolocation-old.git cl-geolocation',
         'https://github.com/blancoamor-2-0/ba_sales.git blancoamor/ba_sales',
         'https://github.com/blancoamor-2-0/ba_base.git blancoamor/ba_base',
         'https://github.com/blancoamor-2-0/ba_delivery_zone.git blancoamor/ba_delivery_zone',
