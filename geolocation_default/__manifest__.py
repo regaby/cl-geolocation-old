@@ -30,13 +30,13 @@
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
         'https://github.com/regaby/cl-geolocation-old.git',
-        'git@github.com:blancoamor-2-0/ba_sales.git blancoamor/ba_sales',
-        'git@github.com:blancoamor-2-0/ba_base.git blancoamor/ba_base',
-        'git@github.com:blancoamor-2-0/ba_delivery_zone.git blancoamor/ba_delivery_zone',
-        'git@github.com:blancoamor-2-0/ba_product.git blancoamor/ba_product',
-        'git@github.com:blancoamor-2-0/ba_purchase.git blancoamor/ba_purchase',
-        'git@github.com:blancoamor-2-0/ba_website.git blancoamor/ba_website',
-        'git@github.com:blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
+        'https://github.com/blancoamor-2-0/ba_sales.git blancoamor/ba_sales',
+        'https://github.com/blancoamor-2-0/ba_base.git blancoamor/ba_base',
+        'https://github.com/blancoamor-2-0/ba_delivery_zone.git blancoamor/ba_delivery_zone',
+        'https://github.com/blancoamor-2-0/ba_product.git blancoamor/ba_product',
+        'https://github.com/blancoamor-2-0/ba_purchase.git blancoamor/ba_purchase',
+        'https://github.com/blancoamor-2-0/ba_website.git blancoamor/ba_website',
+        'https://github.com/blancoamor-2-0/ba_hr.git blancoamor/ba_hr',
 
         'git@code.gestionblancoamor.com:odoo-13/ba_campus.git blancoamor/ba_campus',
         'git@code.gestionblancoamor.com:filoquin/website_themes.git varios/website_themes',
